@@ -64,7 +64,7 @@ window.onload = function () {
     logoElem.innerHTML = 'qisev <span>.top</span><span class="flag">奇色视频</span>'
     mainElem.appendChild(logoElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: <span class="flag">最新地址</span>, items: newestUrls});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
