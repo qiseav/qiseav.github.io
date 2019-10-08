@@ -61,7 +61,7 @@ window.onload = function () {
     var logoElem = document.createElement('div');
     logoElem.setAttribute('class', 'brand');
     logoElem.setAttribute('id', 'logo');
-    logoElem.innerHTML = '<img src="https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g3aehn0a1dj303801edg1.jpg"/>'
+    logoElem.innerHTML = 'qisev <span>.top</span><span class="flag">奇色视频</span>'
     mainElem.appendChild(logoElem);
 	var logoElem = document.createElement('div');
     logoElem.setAttribute('class', 'brand');
