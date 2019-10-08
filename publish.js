@@ -2,16 +2,16 @@ var emails = [
     'qiseav@gmail.com'
 ];
 var newestUrls = [
-    'http://www.qisev.com/',
+    'http://www.secat.top/',
     'http://www.qisev.top/',
-    'http://www.secat.cc/',
+    'http://www.mttun.com/',
 ];
 var otherUrls = [
     'http://qiseav.github.io/',
     'http://tcav8.tv/',
 ];
 var foreverUrls = [
-    'http://tcav.tv/',
+    'http://qisev.com/',
 ];
 var notices = [
     '* 我们推荐电脑以及Andriod手机用户使用Chrome(谷歌)浏览器浏览本站，iPhone手机我们建议使用手机自带的Safria浏览器访问本站。',
