@@ -8,7 +8,7 @@ var newestUrls = [
 ];
 var otherUrls = [
     'http://qiseav.github.io/',
-    'http://tcav8.tv/',
+    'http://qisev.com/',
 ];
 var foreverUrls = [
     'http://qisev.com/',
