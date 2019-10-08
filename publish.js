@@ -63,13 +63,8 @@ window.onload = function () {
     logoElem.setAttribute('id', 'logo');
     logoElem.innerHTML = 'qisev <span>.top</span><span class="flag">奇色视频</span>'
     mainElem.appendChild(logoElem);
-	var logoElem = document.createElement('div');
-    logoElem.setAttribute('class', 'brand');
-    logoElem.setAttribute('id', 'logo');
-    logoElem.innerHTML = '<span class="flag">最新地址</span>'
-    mainElem.appendChild(logoElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls});
+    var newestFieldElem = createFieldElem({title: <span class="flag">最新地址</span>, items: newestUrls});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
