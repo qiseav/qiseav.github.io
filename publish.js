@@ -1,13 +1,13 @@
 var emails = [
-    'tcav888@gmail.com'
+    'qiseav@gmail.com'
 ];
 var newestUrls = [
-    'http://www.tcavv6.com/',
-    'http://www.tcavv2.com/',
-    'http://www.tcavv2.com/',
+    'http://www.qisev.com/',
+    'http://www.qisev.top/',
+    'http://www.secat.cc/',
 ];
 var otherUrls = [
-    'http://tcav8.github.io/',
+    'http://qiseav.github.io/',
     'http://tcav8.tv/',
 ];
 var foreverUrls = [
